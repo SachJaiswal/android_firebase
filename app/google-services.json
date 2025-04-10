@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007407692302",
+    "project_id": "sachin81533",
+    "storage_bucket": "sachin81533.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007407692302:android:4a65adaedadbd103165a5f",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMIBFpAdwe5CGMGJnUt_56LT8jVkt8PII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
